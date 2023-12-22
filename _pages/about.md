@@ -20,7 +20,13 @@ I started college with environmental science as my major but decided to switch a
 
 Professional Experience 
 ======
-I started college with environmental science as my major but decided to switch after my first year, wanting something with less focus on the lab sciences and more focus on policy and decision-making. I became very intrigued by the idea of environmental economics, and once I started taking the classes I was hooked. I thoroughly enjoy looking at environmental issues through an economic lens and using statistical and econometric techniques to solve problems. I ended up doing an accelerated master’s program, that allows me to graduate with a master’s degree in 5 years instead of 6, which I will be completing in May 2024. My coursework focuses on statistics, econometrics, environmental economics, and policy analysis.
+Thus far, my relevant experience has been largely limited to an academic setting except for a semester-long consulting project with American Express. Some of the key projects I have worked on are:
+-	Research project on cost-benefit analyses of solar energy projects
+-	Research project on water sustainability incentive program in Nevada 
+-	Master’s thesis on Farm Adoption of Computer Technology
+-	Developed a theoretical model to measure baseball player value 
+Through these projects, I gained experience in SAS, R, Stata, Excel, Technical Writing, and GitHub.
+
 
 Create content & metadata
 ------
