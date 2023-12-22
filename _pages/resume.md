@@ -23,6 +23,16 @@ The University of Arizona, Tucson, Arizona
 
 Relevant Experience
 ======
+Graduate Research Assistant | 2023 – Present | Tucson, AZ
+* Aggregated  different types of data from multiple different sources
+* Summarized research and analysis methods and communicated findings to diverse stakeholders
+Consulting with American Express | Fall 2023 | Phoenix, AZ
+* Used R and SAS to clean and analyze a large dataset (150 million observations)
+* Consolidated results into succinct and easily understandable deliverables
+Graduate Teaching Assistant | 2023 – Present | Tucson, AZ
+* Assisted professors with grading and course delivery to undergraduate students, in remote and in-person modalities.
+Diana Liverman Scholars Program | 2022 - 2023 | Tucson, AZ
+* Worked on environmental communication skills through a series of projects with community partners - Project Roots and Borderlands Restoration Network
 
   
 Skills
