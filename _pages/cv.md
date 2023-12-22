@@ -13,12 +13,12 @@ Education
 ======
 M.S. Applied Econometrics and Data Analytics	2024 (expected)
 The University of Arizona, Tucson, Arizona
-●	_Relevant Coursework_: Microeconomic Theory, Env. Policy Analysis, and Applied Econometrics
-●	_Master’s Thesis_: Farm Adoption of Computer Technology
+* _Relevant Coursework_: Microeconomic Theory, Env. Policy Analysis, and Applied Econometrics
+* _Master’s Thesis_: Farm Adoption of Computer Technology
 B.S. Environmental and Water Resource Economics GPA: 3.8 	2023
 The University of Arizona, Tucson, Arizona
-●	_Relevant Coursework_: Statistics, Fundamentals of Sustainability, Scientific Writing, Economic Analysis
-●	_Key Projects_: Cost-Benefit of Solar Energy Projects, Water Policy Research Paper
+* _Relevant Coursework_: Statistics, Fundamentals of Sustainability, Scientific Writing, Economic Analysis
+* _Key Projects_: Cost-Benefit of Solar Energy Projects, Water Policy Research Paper
 
 
 Work experience
