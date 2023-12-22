@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joe Bronstein"
 title_separator          : "-"
 name                     : &name "Joe Bronstein"
-description              : &description "2nd year master's student at University of Arizona. Studying Ag. and Resource Economics"
+description              : &description "2nd year master's student at University of Arizona. Studying Agricultural and Resource Economics"
 url                      : https://jbronstein7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbronstein7/jbronstein7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joe Bronstein"
   avatar           : "Profile.jpg"
-  bio              : "2nd Year Master's student at the University of Arizona studying Ag. and Resource Economics"
+  bio              : "2nd Year Master's student at the University of Arizona studying Agricultural and Resource Economics"
   location         : "Tucson, AZ"
   employer         :
   uri              :
