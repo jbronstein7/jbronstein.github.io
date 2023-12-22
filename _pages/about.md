@@ -24,7 +24,8 @@ Thus far, my relevant experience has been largely limited to an academic setting
 -	Research project on cost-benefit analyses of solar energy projects
 -	Research project on water sustainability incentive program in Nevada 
 -	Master’s thesis on Farm Adoption of Computer Technology
--	Developed a theoretical model to measure baseball player value 
+-	Developed a theoretical model to measure baseball player value
+
 Through these projects, I gained experience in SAS, R, Stata, Excel, Technical Writing, and GitHub.
 
 
