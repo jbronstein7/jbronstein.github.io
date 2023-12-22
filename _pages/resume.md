@@ -10,20 +10,22 @@ redirect_from:
 {% include base_path %}
 
 Education
------
+------
 M.S. Applied Econometrics and Data Analytics	2024 (expected)
+
 The University of Arizona, Tucson, Arizona
 * _Relevant Coursework_: Microeconomic Theory, Env. Policy Analysis, and Applied Econometrics
 * _Master’s Thesis_: Farm Adoption of Computer Technology
 
 B.S. Environmental and Water Resource Economics GPA: 3.8 	2023
+
 The University of Arizona, Tucson, Arizona
 * _Relevant Coursework_: Statistics, Fundamentals of Sustainability, Scientific Writing, Economic Analysis
 * _Key Projects_: Cost-Benefit of Solar Energy Projects, Water Policy Research Paper
 
 
 Relevant Experience
------
+------
 Graduate Research Assistant | 2023 – Present | Tucson, AZ
 * Aggregated  different types of data from multiple different sources
 * Summarized research and analysis methods and communicated findings to diverse stakeholders
@@ -38,34 +40,32 @@ Graduate Teaching Assistant | 2023 – Present | Tucson, AZ
 Diana Liverman Scholars Program | 2022 - 2023 | Tucson, AZ
 * Worked on environmental communication skills through a series of projects with community partners - Project Roots and Borderlands Restoration Network
 
+Campus Involvement
+------
+Department of Agricultural and Resource Economics | 2023 - Present
+
+Accelerated Master’s Program Ambassador 
+* Collaborated with different groups to plan and put into action, ways to get more undergraduate students interested in the program
+
+Photography Club | 2020 – Present 
+
+President
+* Publicized club news and updates on social media, led and organized meetings, and tracked club spending  
+
+Agricultural and Resource Economics (AREC) Club | 2022 – Present
+
+Secretary
+* Took notes during club meetings and collaborated with other members to work on club projects 
+
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* Technical Writing 
+* Excel
+* ArcGIS Pro
+* Microsoft Office
+* Data Analysis
+* STATA
+* SAS
+* R
+* GitHub
