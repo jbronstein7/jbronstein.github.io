@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Overview"
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,9 +18,9 @@ Academic Background
 ======
 I started college with environmental science as my major but decided to switch after my first year, wanting something with less focus on the lab sciences and more focus on policy and decision-making. I became very intrigued by the idea of environmental economics, and once I started taking the classes I was hooked. I thoroughly enjoy looking at environmental issues through an economic lens and using statistical and econometric techniques to solve problems. I ended up doing an accelerated master’s program, that allows me to graduate with a master’s degree in 5 years instead of 6, which I will be completing in May 2024. My coursework focuses on statistics, econometrics, environmental economics, and policy analysis.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Professional Experience 
+======
+I started college with environmental science as my major but decided to switch after my first year, wanting something with less focus on the lab sciences and more focus on policy and decision-making. I became very intrigued by the idea of environmental economics, and once I started taking the classes I was hooked. I thoroughly enjoy looking at environmental issues through an economic lens and using statistical and econometric techniques to solve problems. I ended up doing an accelerated master’s program, that allows me to graduate with a master’s degree in 5 years instead of 6, which I will be completing in May 2024. My coursework focuses on statistics, econometrics, environmental economics, and policy analysis.
 
 Create content & metadata
 ------
