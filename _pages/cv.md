@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+M.S. Applied Econometrics and Data Analytics	2024 (expected)
+The University of Arizona, Tucson, Arizona
+●	_Relevant Coursework_: Microeconomic Theory, Env. Policy Analysis, and Applied Econometrics
+●	_Master’s Thesis_: Farm Adoption of Computer Technology
+B.S. Environmental and Water Resource Economics GPA: 3.8 	2023
+The University of Arizona, Tucson, Arizona
+●	_Relevant Coursework_: Statistics, Fundamentals of Sustainability, Scientific Writing, Economic Analysis
+●	_Key Projects_: Cost-Benefit of Solar Energy Projects, Water Policy Research Paper
+
 
 Work experience
 ======
