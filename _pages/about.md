@@ -16,9 +16,9 @@ I was born and raised in Denver, CO, and then came to Tucson, AZ for college whe
 
 Academic Background 
 ======
-I started college with environmental science as my major but decided to switch after my first year, wanting something with less focus on the lab sciences and more focus on policy and decision-making. I became very intrigued by the idea of environmental economics, and once I started taking the classes I was hooked. I thoroughly enjoy looking at environmental issues through an economic lens and using statistical and econometric techniques to solve problems. I ended up doing an accelerated master’s program, that allows me to graduate with a master’s degree in 5 years instead of 6, which I will be completing in May 2024. My coursework focuses on statistics, econometrics, environmental economics, and policy analysis.
+I started college with environmental science as my major but decided to switch after my first year, wanting something with less focus on the lab sciences and more focus on policy and decision-making. I became very intrigued by the idea of environmental economics, and once I started taking the classes I was hooked. I thoroughly enjoy looking at environmental issues through an economic lens and using statistical and econometric techniques to solve problems. I ended up doing an accelerated master’s program, that allows me to graduate with a master’s degree in 5 years instead of 6, which I will be completing in May 2024.
 
-Professional Experience 
+Projects 
 ======
 Thus far, my relevant experience has been largely limited to an academic setting except for a semester-long consulting project with American Express. Some of the key projects I have worked on are:
 -	Research project on cost-benefit analyses of solar energy projects
@@ -27,5 +27,3 @@ Thus far, my relevant experience has been largely limited to an academic setting
 -	Developed a theoretical model to measure baseball player value
 -	Worked as a research assistant studying economic impact of University of Arizona Athletics on the city of Tucson
 -	Data analytics consulting project with American Express
-
-Through these projects, I gained experience in SAS, R, Stata, Excel, Technical Writing, and GitHub.
