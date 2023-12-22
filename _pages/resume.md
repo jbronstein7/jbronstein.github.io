@@ -21,17 +21,9 @@ The University of Arizona, Tucson, Arizona
 * _Key Projects_: Cost-Benefit of Solar Energy Projects, Water Policy Research Paper
 
 
-Work experience
+Relevant Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
