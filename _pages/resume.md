@@ -47,7 +47,7 @@ Department of Agricultural and Resource Economics | 2023 - Present
 Accelerated Master’s Program Ambassador 
 * Collaborated with different groups to plan and put into action, ways to get more undergraduate students interested in the program
 
-Photography Club | 2020 – Present 
+Photography Club | 2020 - Present
 
 President
 * Publicized club news and updates on social media, led and organized meetings, and tracked club spending  
